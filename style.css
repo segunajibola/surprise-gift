@@ -76,6 +76,11 @@ h1, h2, h3, h4, p {
     background-image: url("images/hot.gif");
 }
 
+#gift-img-genius {
+    max-width: 800px !important;
+    height: 500 !important;
+}
+
 #gift-img-genius:hover {
     background-image: url("images/genius.gif");
 }
